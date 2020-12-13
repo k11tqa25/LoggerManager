@@ -438,8 +438,8 @@ MultiSettingsLoggers 適用於在單一專案使用多個 SettingsLogger 的時�
 
 >> 此設定方法建議寫在程式最一開始。
 
-[ClassDef]: ./ClassDefinition.html
-[CustomSettingsDef]: ./CustomSettingDefinition.html
+[ClassDef]: ./ClassDefinition.md
+[CustomSettingsDef]: ./CustomSettingDefinition.md
 
 
 
